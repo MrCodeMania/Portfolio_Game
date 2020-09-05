@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bhzzang.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BhzzangDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BhzzangView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bhzzang.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BhzzangDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BhzzangView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Bhzzang.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Bhzzang.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\BhzzangDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Bhzzang.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\정면.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\좌향좌.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\↑.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\→.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\↓.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\←.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\뒷모습.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Desktop\모션\우향우.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\desktop\모션\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\Harvest%20Moon%20farm.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\MAP.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\BATTLEMAP.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\이상해씨 우리팀.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\이상해씨 컴퓨터.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\가디 우리팀.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\가디 컴퓨터.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\꼬부기 우리팀.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\꼬부기 컴퓨터.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\파이리 우리팀.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\파이리 컴퓨터.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\피카츄 우리팀.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\피카츄 컴퓨터.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\사사삭.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\물어뜯기1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\물어뜯기2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\잎날 가르기.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\파도타기.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\피카츄 백만볼트 자신.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\피카츄 백만볼트 자신임.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\화염방사.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\몬스터 볼.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\시작화면.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\보스말건후.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\보스말걸기전.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\웬디.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\맵비트\몬스터 볼2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\MyBhzzang.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\POCKET.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
