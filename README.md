@@ -140,7 +140,7 @@ MFC를 사용해 기존보다 역동적인 포켓몬스터를 제작했습니다
 
 - #### 프로젝트 기간 - 2017.04 ~ 2017.05
 
-<img src="MFC_PocketMonster/PocketMon.png"/>
+![PocketMon](https://user-images.githubusercontent.com/29879675/152682099-0abf5bdc-3121-425b-9801-3f4b2248a99f.PNG)
 
 
 
