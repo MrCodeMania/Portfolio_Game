@@ -44,7 +44,8 @@
 ![image-20220204235654906](Unity_DeepLearning_VR_Game/images/image-20220204235654906.png)
 
 ```
-정적 제스처와 동적 제스처를 모두 분류하기 위하여 공간적인 특징만을 고려하는 기존의 DenseNet에 시간상의 정보를 고려할 수 있도록 차원을 확장한 3D DenseNet 구조를 설계하였습니다.
+정적 제스처와 동적 제스처를 모두 분류하기 위하여 공간적인 특징만을 고려하는 기존의 DenseNet에  
+시간상의 정보를 고려할 수 있도록 차원을 확장한 3D DenseNet 구조를 설계하였습니다.
 ```
 
 
@@ -67,17 +68,14 @@
 
 - #### <a href="https://github.com/MrCodeMania/Portfolio_Game/tree/master/Unity_DeepLearning_VR_Game/딥러닝 기반 손 제스처 인식을 통한 3D 가상현실 게임.hwp">관련 논문</a>
 
+<br>
 
-
-------
-
-
-
-
-
+---
 
 <br>
-<br>
+
+
+
 
 ## 몬스터 수집 RPG 게임
 
@@ -112,16 +110,13 @@
 - #### <a href="https://github.com/MrCodeMania/Portfolio_Game/tree/master/Unity_Collectible_Game/Combine_combi_Intro.mp4">인트로 영상</a>
 
 
+<br>
 
-------
-
-
-
-
-
+---
 
 <br>
-<br>
+
+
 
 ## 포켓몬스터
 
@@ -152,19 +147,14 @@ MFC를 사용해 기존보다 역동적인 포켓몬스터를 제작했습니다
 - #### 실행방법 - Debug/Bhzzang.exe
 
   
+<br>
 
-
-
-
-
-------
-
-
-
-
+---
 
 <br>
-<br>
+
+
+
 
 ## 로봇 애니메이션
 
